@@ -1,6 +1,3 @@
-# australian-ai-salary-analysis
-A data-driven analysis of salary drivers in the Australian AI job market using machine learning.
-
 # A Predictive and Interpretive Analysis of Salary Drivers in the Australian AI Skills Landscape
 
 **Author:** Jiansong Zhang  
